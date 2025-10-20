@@ -2,11 +2,6 @@
 <img width="156" height="130" alt="image" src="https://github.com/user-attachments/assets/48180052-9a47-4c42-970d-22ebacf1f35c" />
 </div>
 
-<h4 align="center">
-  <a href="[https://ragflow.io/docs/dev/](https://forum.zshield.net/d/5)">Document</a> |
-  <a href="https://github.com/zxinfo/zhiriulian/">Roadmap</a> |
-</h4>
-
 <details open>
 <summary><b>📕 目录</b></summary>
 
