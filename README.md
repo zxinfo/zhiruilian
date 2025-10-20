@@ -176,7 +176,7 @@
 
 ## 📚 技术文档
 
-- [部署手册](https://doc.zshield.net/index.php/s/ynFDCWQjzt2cxkD))
+- [部署手册](https://doc.zshield.net/index.php/s/ynFDCWQjzt2cxkD)
 - [管理员手册](https://doc.zshield.net/index.php/s/99oa6edk8BZEZGn)
 - [用户手册](https://doc.zshield.net/index.php/s/aGkd3QN5Kx2mwsi)
 
