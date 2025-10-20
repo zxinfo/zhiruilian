@@ -99,7 +99,7 @@
 
   - 浏览器访问控制中心管理系统 https://{服务器IP}:6443。在“网关管理”页面，点击“新增网关”，输入刚刚复制的网关ID，并点击生成Token令牌，然后点击确定保存。
      
-  - 复制生成的Token令牌。回到网关管理系统 https://{服务器IP}:5443。将刚刚复制的token令牌粘贴到“网关TOKEN”配置项中，点击确定保存。
+  - 复制生成的Token令牌。回到网关管理系统 https://{服务器IP}:5443。将刚刚复制的token令牌粘贴到“网关TOKEN”配置项中，然后修改“网关服务IP”为服务器IP地址。点击确定保存。
 <!--img width="760" height="514" alt="image" src="https://github.com/user-attachments/assets/fd86b0fb-0c24-4c07-bce1-90bb322af684" /-->
    
 2. 网关服务、控制中心服务许可证配置
