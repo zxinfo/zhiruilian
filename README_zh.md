@@ -1,24 +1,13 @@
 <div align="center">
-<a href="https://demo.ragflow.io/">
-  <img width="164" height="140" alt="image" src="https://github.com/user-attachments/assets/9b827404-083a-4c43-9004-b6a519570e39" />
-</a>
+<img width="156" height="130" alt="image" src="https://github.com/user-attachments/assets/48180052-9a47-4c42-970d-22ebacf1f35c" />
 </div>
 
-<p align="center">
-  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-DFE0E5"></a>
-  <a href="./README_zh.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-DBEDFA"></a>
-</p>
-
 <h4 align="center">
-  <a href="https://ragflow.io/docs/dev/">Document</a> |
-  <a href="https://github.com/infiniflow/ragflow/issues/4214">Roadmap</a> |
-  <a href="https://twitter.com/infiniflowai">Twitter</a> |
-  <a href="https://discord.gg/NjYzJD3GM3">Discord</a> |
-  <a href="https://demo.ragflow.io">Demo</a>
+  <a href="[https://ragflow.io/docs/dev/](https://forum.zshield.net/d/5)">Document</a> |
+  <a href="https://github.com/zxinfo/zhiriulian/">Roadmap</a> |
 </h4>
 
 #
-
 <details open>
 <summary><b>📕 目录</b></summary>
 
