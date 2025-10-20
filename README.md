@@ -175,7 +175,8 @@
 <!--img width="800" height="632" alt="image" src="https://github.com/user-attachments/assets/61cf74e9-dc04-40c3-8bd9-aafaf65c7619" /-->
 
 ## 📚 技术文档
-[网站](https://doc.zshield.net/index.php/s/ynFDCWQjzt2cxkD)
+[网站论坛](https://forum.zshield.net/d/5)
+
 包括：
 - [部署手册](https://doc.zshield.net/index.php/s/ynFDCWQjzt2cxkD)
 - [管理员手册](https://doc.zshield.net/index.php/s/99oa6edk8BZEZGn)
