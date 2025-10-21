@@ -172,9 +172,9 @@
 ## 📚 在线支持
 [网站论坛](https://forum.zshield.net/d/5)
 
-- [部署手册](https://doc.zshield.net/index.php/s/ynFDCWQjzt2cxkD)
+- [部署手册](https://doc.zshield.net/index.php/s/3MgqbaXLm2oW6Ca)
 - [管理员手册](https://doc.zshield.net/index.php/s/99oa6edk8BZEZGn)
-- [用户手册](https://doc.zshield.net/index.php/s/aGkd3QN5Kx2mwsi)
+- [用户手册](https://doc.zshield.net/index.php/s/ZYHHF3gCPtwbnTW)
 
 ## 🤝 商务合作
   至锐联企业版功能：
